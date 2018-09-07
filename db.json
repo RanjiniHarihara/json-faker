@@ -1,7 +1,7 @@
 {
- "ninjas":[ {"name":"Anvi", "belt":"blue"},
-  {"name":"Abhi", "belt":"black"},
-  {"name":"Ran", "belt":"Green"},
-  {"name":"Jag", "belt":"Yellow"}
+ "ninjas":[ {"name":"Ansi", "belt":"blue"},
+  {"name":"Leo", "belt":"black"},
+  {"name":"Ben", "belt":"Green"},
+  {"name":"pri", "belt":"Yellow"}
   ]         
 }
